@@ -1,0 +1,57 @@
+xterm*pointerColor:		white
+!xterm*pointerShape:	double_arrow
+!xterm*termName:		xterm-256color
+!xterm*title:			xterm
+xterm*faceName:			DejaVu Sans Mono Book
+!xterm*faceName:		Luxi Mono
+!xterm*font:			*-fixed-*-*-*-28-*
+xterm*internalBorder:	16
+xterm*loginshell:		true
+xterm*savelines:		16384
+xterm*vt100*geometry:	72x16
+xterm*rightScrollBar:	false
+xterm*ScrollBar:		false
+xterm*ScrollKey:		false
+xterm*saveLines:		4096
+xterm*faceSize:			22
+Xterm*blink:			false
+Xterm*cursorBlink:		false
+Xterm.vt100.blink:		false
+
+!XTerm*color0:       black
+!XTerm*color8:       grey
+!XTerm*color1:       red
+!XTerm*color9:       brown
+!XTerm*color2:       green
+!XTerm*color10:      lightgreen
+!XTerm*color3:       brown
+!XTerm*color11:      yellow
+!XTerm*color4:       blue
+!XTerm*color12:      blue
+!XTerm*color5:       magenta
+!XTerm*color13:      magenta
+!XTerm*color6:       cyan
+!XTerm*color14:      cyan
+!XTerm*color7:       grey
+!XTerm*color15:      grey
+
+xterm*background:	black
+xterm*foreground:	#ccc8c0
+xterm*cursorColor:	#aca8a0
+!xterm*color0:		black
+!xterm*color8:		darkgrey
+!xterm*color1:		red
+!xterm*color9:		red
+!xterm*color2:		green
+!xterm*color10:		green
+!xterm*color3:		brown
+!xterm*color11:		yellow
+!xterm*color4:		blue
+!xterm*color12:		blue
+!xterm*color5:		magenta
+!xterm*color13:		magenta
+!xterm*color6:		cyan
+!xterm*color14:		cyan
+!xterm*color7:		lightgrey
+!xterm*color15:		white
+
