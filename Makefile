@@ -91,7 +91,7 @@ OBJECT	+= arguments.S
 
 #OPT	= -Os
 PRJSRC	=$(wildcard *.c)
-#CMD		= $(shell ssh moi@desktop make -f src/machine/upload.mk)
+#CMD	= $(shell ssh desktop make -f src/machine/upload.mk)
 CMD1	= $(shell scp simple.hex desktop:)
 CMD2	= $(shell ssh desktop make -f upload.mk)
 
