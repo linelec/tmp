@@ -1,7 +1,0 @@
-! comment
-#include				".colors"
-#include				".xterm"
-#include				".rxvt"
-!*cursorColor:			#faaaaa
-
-
